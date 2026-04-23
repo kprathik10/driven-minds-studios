@@ -1,1 +1,1 @@
-@tailwind base;@tailwind components;@tailwind utilities;body{margin:0;font-family:Inter,Arial,sans-serif;}
+@font-face{font-family:'Darkline';src:url('/fonts/darkline.ttf')}@font-face{font-family:'Montserrat';src:url('/fonts/montserrat.ttf')}@font-face{font-family:'Outfit';src:url('/fonts/outfit.ttf')}body{margin:0}
