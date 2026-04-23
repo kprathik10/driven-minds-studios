@@ -124,7 +124,22 @@ export default function App() {
               src="/logo.png"
               className="w-14 h-14 object-contain group-hover:scale-105 transition"
             />
-                    </a>
+  <div>
+              <h1
+                className="text-4xl leading-none"
+                style={{ fontFamily: "Darkline" }}
+              >
+                Driven Minds
+              </h1>
+              <div
+                className="text-xs tracking-[0.45em] text-[#D4AF37]"
+                style={{ fontFamily: "Outfit" }}
+              >
+                STUDIOS
+              </div>
+            </div>
+
+          </a>
 
           {/* Nav */}
           <nav
