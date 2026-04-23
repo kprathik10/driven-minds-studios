@@ -122,7 +122,7 @@ export default function App() {
           <a href="/" className="flex items-center gap-4 group relative z-10">
             <img
               src="/logo.png"
-              className="w-15 h-15 object-contain group-hover:scale-105 transition"
+              className="w-14 h-14 object-contain group-hover:scale-105 transition"
             />
                     </a>
 
